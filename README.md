@@ -41,6 +41,6 @@ El proyecto está dividido en los siguientes modulos de logica:
 ### Pasos para la ejecución
 1. **Clonar el repositorio:**
    ```bash
-   git clone [URL_DE_TU_REPOSITORIO]
+   git clone https://github.com/JackRen159/Taller-recursividad-Estructuras-de-datos
 2. Compilar el proyecto:
    Desde la carpeta src, se debe buscar el paquete main y dentro del paquete la clase Main
